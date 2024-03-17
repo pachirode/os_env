@@ -18,5 +18,6 @@ __pycache__/
 *venv
 .env
 
-
-
+# special
+window/install.ps1
+python_for_nvim/*

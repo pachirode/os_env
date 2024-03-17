@@ -14,11 +14,18 @@ scoop bucket add nerd-fonts
 
 # Install origin software
 scoop update
-scoop install neovim
 scoop install git
 scoop install wget
 scoop install fzf
 scoop install pwsh
 scoop install Meslo-NF
+
+# nvim setting
+scoop install neovim
+scoop install nodejs
+scoop install python
+scoop install universal-ctags
+scoop install ripgrep
+
 # scoop install vscode
 

@@ -1,4 +1,4 @@
-REM @echo off
+@echo off
 
 REM Check if current os system install PowerShell
 

@@ -1,0 +1,8 @@
+pynvim
+pylint
+flake8
+vim-vint
+'python-lsp-server[all]'
+pylsp-mypy
+python-lsp-isort
+python-lsp-black
